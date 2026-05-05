@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>特定商取引法に基づく表記 | Legal Notice - Ryu Yabana</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.8;
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 0 25px;
+            color: #2c3e50;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 1.8rem;
+            border-bottom: 2px solid #eaecef;
+            padding-bottom: 15px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        .legal-item {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #f6f8fa;
+            padding-bottom: 10px;
+        }
+        .label {
+            font-weight: bold;
+            display: block;
+            color: #1a1a1a;
+            margin-bottom: 4px;
+        }
+        .content {
+            display: block;
+        }
+        .en-translation {
+            display: block;
+            font-size: 0.85rem;
+            color: #6a737d;
+            font-style: italic;
+            margin-top: 4px;
+        }
+        footer {
+            margin-top: 60px;
+            text-align: center;
+            font-size: 0.8rem;
+            color: #959da5;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>特定商取引法に基づく表記<br><span style="font-size: 1rem; color: #6a737d;">Legal Notice</span></h1>
+
+    <div class="legal-item">
+        <span class="label">販売業者 (Vendor)</span>
+        <span class="content">矢花龍太郎 (Ryu Yabana)</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">所在地・電話番号 (Address & Phone Number)</span>
+        <span class="content">消費者庁の指針に基づき、請求があった場合は遅滞なく電子メール等により提供いたします。</span>
+        <span class="en-translation">In accordance with the guidelines of the Consumer Affairs Agency, this information will be provided via email without delay upon request.</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">メールアドレス (Email Address)</span>
+        <span class="content">ryu.yabana+inquiries@gmail.com</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">販売価格 (Selling Price)</span>
+        <span class="content">各商品ページに表示された価格に基づきます。</span>
+        <span class="en-translation">Prices are based on the amounts displayed on each product page.</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">商品代金以外の必要料金 (Additional Charges)</span>
+        <span class="content">なし（デジタルコンテンツのため、送料などはかかりません）。</span>
+        <span class="en-translation">None (No shipping fees apply as products are digital content).</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">代金の支払時期 (Payment Timing)</span>
+        <span class="content">ご購入時に決済が確定します。</span>
+        <span class="en-translation">Payment is finalized at the time of purchase.</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">支払方法 (Payment Method)</span>
+        <span class="content">クレジットカード（Stripe経由）</span>
+        <span class="en-translation">Credit Card (via Stripe).</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">商品の引渡時期 (Delivery Timing)</span>
+        <span class="content">決済完了後、直ちにダウンロード可能となります。</span>
+        <span class="en-translation">Digital content is available for immediate download upon successful payment.</span>
+    </div>
+
+    <div class="legal-item">
+        <span class="label">返品・交換方法 (Returns & Exchanges)</span>
+        <span class="content">デジタルコンテンツの特性上、決済完了後の返品・返金には応じられません。万が一、ファイルに不備がある場合は、上記メールアドレスまでご連絡ください。</span>
+        <span class="en-translation">Due to the nature of digital products, returns and refunds are not accepted after purchase. If there is a defect in the file, please contact the email address above.</span>
+    </div>
+
+    <footer>
+        &copy; 2024 Ryu Yabana - All Rights Reserved
+    </footer>
+
+</body>
+</html>
